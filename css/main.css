@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: beige;
+    
+}
+
+header h1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+}
+
+dl dd:nth-child(2) {
+    padding-right: 45px;
+    padding-bottom: 10px;
+}
+
+dl dd:nth-child(4) {
+    padding-right: 45px;
+    padding-bottom: 10px;
+}
+
+dl dd:nth-child(6) {
+    padding-right: 45px;
+    padding-bottom: 10px;
+}
+
+dl dd:nth-child(8) {
+    padding-right: 45px;
+    padding-bottom: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
